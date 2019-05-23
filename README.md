@@ -1,1 +1,1 @@
-# HangmanC-
+# HangmanCPlusPlus-
